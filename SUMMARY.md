@@ -1,7 +1,30 @@
 # Summary
 
 * [S3 LRM User Guide](README.md)
-* [S3 USER GUIDELINE - OEE](s3_user_guideline_-_oee/README.md)
+* [OEE \(Overall Equipment Efficiency\)](s3_user_guideline_-_oee/README.md)
   * [1. Getting Started](s3_user_guideline_-_oee/1_getting_started.md)
   * [2. Adding a Production Line in the S3](s3_user_guideline_-_oee/2_adding_a_production_line_in_the_s3.md)
   * [3. Entering the OEE data](s3_user_guideline_-_oee/3_entering_the_oee_data.md)
+* [Material Balance](material-balance.md)
+  * [1. Getting Started](material-balance/getting-started.md)
+  * [2. Adding a Production Line](material-balance/adding-a-production-line.md)
+  * [3. Entering the Material Balance data](material-balance/entering-the-material-balance-data.md)
+* [Packaging Balance](packaging-balance.md)
+  * [Getting Started](packaging-balance/getting-started.md)
+  * Adding a Production Line in the S3
+  * Entering the Packaging Balance data
+* [Maintenance](maintenance.md)
+  * [1. Getting Started](maintenance/getting-started.md)
+  * [2. Adding a Production Line in the S3](maintenance/adding-a-production-line-in-the-s3.md)
+  * [Entering the Maintenance data](maintenance/entering-the-maintenance-data-in-the-s3.md)
+* [Distribution Efficiency](distribution-efficiency.md)
+  * [1. Getting Started](distribution-efficiency/getting-started.md)
+  * [2. Adding a Production Line in the S3](distribution-efficiency/adding-a-production-line-in-the-s3.md)
+  * [3. Entering the Distribution Efficiency data](distribution-efficiency/entering-the-distribution-efficiency-data.md)
+* [Inventory Losses](inventory-losses.md)
+  * [1. Getting Started](inventory-losses/getting-started.md)
+  * [2. Adding a Production Line in the S3](inventory-losses/adding-a-production-line-in-the-s3.md)
+  * [3. Entering the Inventory Losses data](inventory-losses/entering-the-inventory-losses-data.md)
+* [Results](results.md)
+* [Single Agenda](results.md)
+
