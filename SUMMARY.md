@@ -10,9 +10,9 @@
   * [2. Adding a Production Line](material-balance/adding-a-production-line.md)
   * [3. Entering the Material Balance data](material-balance/entering-the-material-balance-data.md)
 * [Packaging Balance](packaging-balance.md)
-  * [Getting Started](packaging-balance/getting-started.md)
-  * Adding a Production Line in the S3
-  * Entering the Packaging Balance data
+  * [1. Getting Started](packaging-balance/getting-started.md)
+  * [2. Adding a Production Line in the S3](packaging-balance/adding-a-production-line-in-the-s3.md)
+  * [3. Entering the Packaging Balance data](packaging-balance/entering-the-packaging-balance-data.md)
 * [Maintenance](maintenance.md)
   * [1. Getting Started](maintenance/getting-started.md)
   * [2. Adding a Production Line in the S3](maintenance/adding-a-production-line-in-the-s3.md)
