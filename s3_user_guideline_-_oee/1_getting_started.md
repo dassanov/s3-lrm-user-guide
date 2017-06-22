@@ -2,7 +2,7 @@
 
 After the login into the S3 \([https://s3.cubics.io/en](https://s3.cubics.io/en)\) is complete, please choose the OEE Module to enter the data.
 
-![](file:///C:/Users/AIDANA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![](/assets/import1000.png)
 
 The system will automatically show you the available plants that you have an access to. If the required production line is not available, it should be added in the system as part of the plant. Example below.![](/assets/import.png)
 
