@@ -6,7 +6,7 @@ In order to enter the Maintenance data, please follow the instructions below
 
 2. Select the **Edit** button
 
-3. All the cells in the blue button can be edited
+3. All the cells highlighted in blue can be edited
 
 #### 3.1 Reference Period
 
@@ -23,8 +23,6 @@ In order to enter the Maintenance data, please follow the instructions below
 6. Enter the cost of Spare Parts
 
 ![](/assets/import80.png)
-
-#### 
 
 #### 3.2 Vision
 
