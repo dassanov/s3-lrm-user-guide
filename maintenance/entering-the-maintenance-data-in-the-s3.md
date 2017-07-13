@@ -43,7 +43,7 @@ This chart illustrates the summary of the Reference and Vision data added earlie
 
 #### 3.5 Activity Families Chart
 
-This chart illustrates the summary of activity families data added earlier. 
+This chart illustrates the summary of activity families data added earlier.
 
 #### ![](/assets/import107.png)
 
