@@ -30,52 +30,44 @@ In order to enter the Maintenance data, please follow the instructions below
 
 ![](/assets/import82.png)
 
-1. All data on the Improvements should be added in the blue cells, data in the white cells will be calculated automatically
-   ![](/assets/import74.png) 
+#### 3.3 Reference-Vision Data
 
-#### ![](/assets/import100.png)
+1. Enter the required data in the blue cells:![](/assets/import101.png)
+2. Enter the required data in the blue cells, and the rest will be calculated automatically:![](/assets/import102.png)
 
-#### ![](/assets/import101.png)
-
-#### ![](/assets/import102.png)
-
-#### 3.3 Reference-Vision Chart
+#### 3.4 Reference-Vision Chart
 
 This chart illustrates the summary of the Reference and Vision data added earlier.
 
 ![](/assets/import105.png)
 
-#### 3.4 Activity Families Chart
+#### 3.5 Activity Families Chart
+
+This chart illustrates the summary of activity families data added earlier. 
 
 #### ![](/assets/import107.png)
 
-#### 3.5![](/assets/import108.png)
-
-#### ![](/assets/import110.png)
+Data in the table below is calculated automatically and illustrates Reference-Vision data with respect to Loss Families:![](/assets/import108.png)Data in the table below is calculated automatically and illustrates Reference-Vision data with respect to defined variables in the Reference table:![](/assets/import110.png)
 
 #### 3.6 Cost of Maintenance by criticity Charts
 
-#### ![](/assets/import112.png)
-
-#### 
-
-#### 
+These charts illustrate the summary of Cost of maintenance data with respect to criticity.![](/assets/import112.png)
 
 #### 3.7 Cost of Maintenance by resource Charts
 
-#### ![](/assets/import114.png)
+These charts illustrate the summary of Cost of maintenance data with respect to resource.![](/assets/import114.png)
 
 #### 3.8 Working hours by criticity Charts
 
-#### ![](/assets/import116.png)
+These charts illustrate the summary of Working hours data with respect to criticity.![](/assets/import116.png)
 
 #### 3.9 Working hours by activity Charts
 
-#### ![](/assets/import120.png)
+These charts illustrate the summary of Working hours data data with respect to activity.![](/assets/import120.png)
 
 #### 3.10 Cost of Maintenance by activity Charts
 
-#### ![](/assets/import121.png)
+These charts illustrate the summary of Cost of maintenance data with respect to activity.![](/assets/import121.png)
 
 #### 
 
